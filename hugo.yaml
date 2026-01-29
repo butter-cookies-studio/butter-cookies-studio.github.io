@@ -1,0 +1,22 @@
+baseURL: 'https://example.github.io/'
+languageCode: 'en'
+title: 'Butter Cookies'
+theme: 'PaperMod'
+copyright: '© 2026 Butter Cookies. All rights reserved.'
+
+params:
+  env: 'production'
+  title: 'Butter Cookies'
+  description: 'Creating simple and useful apps for everyone.'
+
+  profileMode:
+    enabled: true
+    title: 'Hi there! 👋'
+    subtitle: 'We build sustainable and user-friendly mobile services.'
+    buttons:
+      - name: 'Our Apps'
+        url: '/apps'
+
+caches:
+  images:
+    dir: :cacheDir/images
