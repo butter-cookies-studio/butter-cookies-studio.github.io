@@ -3,52 +3,69 @@ title: 'Privacy Policy - Mooni'
 date: 2026-01-28
 ---
 
-This privacy policy is applicable to the **Mooni** app (hereinafter referred to as "Application") for mobile devices, which was developed by **Butter Cookies** (hereinafter referred to as "Service Provider") as an Ad Supported service. This service is provided "AS IS".
+This privacy policy is applicable to the Mooni app (hereinafter referred to as "Application") for mobile devices, which was developed by Butter Cookies (hereinafter referred to as "Service Provider") as a an Ad Supported service. This service is provided "AS IS".
 
-### What information does the Application obtain?
+### What information does the Application obtain and how is it used? What information do users provide to the Application?
 
-**User Provided Information**  
-The Application does not require any user registration or account creation. We do not collect personal information such as your name, email address, or phone number. Any data you enter (e.g., cycle logs, notes) is stored locally on your device using SQLite and is not transmitted to our servers.
+The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.
 
-**Automatically Collected Information**  
-The Application may collect certain information automatically to ensure the app functions correctly and to provide advertisements via AdMob. This includes:
+The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-- The type of mobile device you use
-- Your device's unique device ID (AD ID)
-- The IP address of your mobile device
-- Your mobile operating system
-- Information about the way you use the Application
+### What information does the Application collect automatically?
 
-### Location & AI Information
+In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
 
-- **Location:** This Application does not gather precise, real-time information about the location of your mobile device.
-- **AI:** The Application does not use Artificial Intelligence (AI) technologies to process your personal data.
+### Does the Application collect precise real time location information of the device?
 
-### Third-Party Access
+This Application does not gather precise information about the location of your mobile device.
 
-Only aggregated, anonymized data is transmitted to external services to help us improve the Application. We utilize the following third-party services:
+### Does the Application use Artificial Intelligence (AI) technologies?
+
+The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
+
+### Do third parties see and/or have access to information obtained by the Application?
+
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 - **Google Play Services:** [Privacy Policy](https://policies.google.com/privacy)
 - **AdMob:** [Privacy Policy](https://support.google.com/admob/answer/6128543?hl=en)
 
-### Data Retention & Management
+The Service Provider may disclose User Provided and Automatically Collected Information:
 
-Since all your cycle data is stored locally on your device, we do not retain your personal data on our servers. You can delete all your data at any time by clearing the app cache or uninstalling the Application.
+- as required by law, such as to comply with a subpoena, or similar legal process;
+- when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+- with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-### Children's Privacy
+### What are my opt-out rights?
 
-We do not knowingly collect personally identifiable information from children under 13. Since we do not collect any personal data, parents can rest assured that their child's information is not being stored or shared.
+You can halt all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-### Security
+### What is the data retention policy and how can you manage your information?
 
-We care about the security of your information. Since your data is stored locally, it is protected by your device's own security features (like PIN or Biometrics). We also provide an App Lock feature for extra privacy.
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. The Service Provider will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at buttercookies.contact@gmail.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
 
-### Changes to This Policy
+### How does the Application address children's privacy?
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-**Effective Date:** 2026-01-28
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (buttercookies.contact@gmail.com) so that they will be able to take the necessary actions.
 
-### Contact Us
+### How is your information kept secure?
 
-If you have any questions, please contact us at: **[buttercookies.contact@gmail.com]**
+The Service Provider are concerned about safeguarding the confidentiality of your information. The Service Provider provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve their Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+
+### How will you be informed of changes to this Privacy Policy?
+
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+
+This privacy policy is effective as of 2026-02-12
+
+### How do you give your consent?
+
+By using the Application, you are giving your consent to the Service Provider processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
+
+### How can you contact us?
+
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at buttercookies.contact@gmail.com.
