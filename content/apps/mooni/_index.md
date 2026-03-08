@@ -2,7 +2,13 @@
 title: 'Mooni : Period Tracker'
 date: 2026-01-28
 description: 'The most private, simple, and beautiful way to track your cycle.'
+cover:
+  image: 'Mooni_Graphic_Image.png' # 이미지 경로
+  relative: false
+  responsiveImages: false
 ---
+
+![Mooni_Graphic_Image](Mooni_Graphic_Image.png)
 
 ### Your Cycle, Your Privacy.
 
