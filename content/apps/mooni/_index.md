@@ -8,8 +8,6 @@ cover:
   responsiveImages: false
 ---
 
-![Mooni_Graphic_Image](Mooni_Graphic_Image.png)
-
 ### Your Cycle, Your Privacy.
 
 Tracking your period shouldn't be complicated or invasive. **Mooni** is designed for those who want a reliable, beautiful, and strictly private way to stay in tune with their body. No fluff, no ads selling your data—just you and your cycle.
