@@ -1,9 +1,9 @@
 ---
-title: 'Terms & Conditions - BearPill'
-date: 2026-04-12
+title: 'Terms & Conditions'
+date: 2026-03-18
 ---
 
-These terms and conditions apply to the BearPill app (hereby referred to as "Application") for mobile devices that was created by Butter Cookies (hereby referred to as "Service Provider") as a Freemium service.
+These terms and conditions apply to the period tracker app (hereby referred to as "Application") for mobile devices that was created by Butter Cookies (hereby referred to as "Service Provider") as a Freemium service.
 
 Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application.
 

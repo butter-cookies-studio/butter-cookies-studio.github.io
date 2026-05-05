@@ -1,9 +1,9 @@
 ---
-title: 'Privacy Policy - BearPill'
+title: 'Privacy Policy'
 date: 2026-04-12
 ---
 
-This privacy policy is applicable to the BearPill app (hereinafter referred to as "Application") for mobile devices, which was developed by Butter Cookies (hereinafter referred to as "Service Provider") as a a Freemium service. This service is provided "AS IS".
+This privacy policy is applicable to the pill reminder app (hereinafter referred to as "Application") for mobile devices, which was developed by Butter Cookies (hereinafter referred to as "Service Provider") as a a Freemium service. This service is provided "AS IS".
 
 ### What information does the Application obtain and how is it used?
 

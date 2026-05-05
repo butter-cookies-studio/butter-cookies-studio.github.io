@@ -1,0 +1,67 @@
+{{ define "main" }} {{/* 프로필 모드나 홈정보 모드가 설정되어 있다면 상단에 표시
+*/}} {{- if .Content }}
+<div class="post-content">{{ .Content | markdownify }}</div>
+{{- end }} {{/* 핵심 로직: content 폴더 아래의 각 섹션(_index.md)만 가져오기
+*/}} {{- $apps := .Sections }}
+
+<header class="page-header welcome-section">
+  <h1>Hi there 👋</h1>
+  <p class="welcome-description">
+    We're creating useful apps for everyone.<br />
+    Discover our latest apps for your lifestyle.
+  </p>
+</header>
+
+<style>
+  .welcome-section {
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    padding: 40px 20px;
+    text-align: center;
+    border-radius: 12px;
+  }
+  .welcome-section h1 {
+    font-size: 2.2rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    color: var(--primary);
+  }
+  .welcome-description {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: var(--secondary);
+    opacity: 0.9;
+  }
+</style>
+
+<div class="post-feed">
+  {{- range $apps }}
+  <article class="post-entry">
+    {{- $headless := .Site.GetPage .File.Dir }} {{/* 커버 이미지 표시 */}} {{-
+    $cover := .Params.cover }} {{- if $cover.image }}
+    <div class="entry-content">
+      <p>{{ .Description | plainify | htmlUnescape }}</p>
+    </div>
+    <section class="entry-cover">
+      <img
+        src="{{ $cover.image | absURL }}"
+        alt="{{ .Title }}"
+      />
+    </section>
+    {{- end }}
+
+    <div class="entry-content">
+      <p>{{ .Summary | plainify | htmlUnescape }}...</p>
+    </div>
+
+    {{/* 클릭 시 해당 앱 섹션으로 이동 */}}
+    <a
+      class="entry-link"
+      aria-label="post link to {{ .Title }}"
+      href="{{ .Permalink }}"
+    ></a>
+  </article>
+  {{- end }}
+</div>
+
+{{ end }}

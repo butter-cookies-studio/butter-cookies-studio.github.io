@@ -1,9 +1,9 @@
 ---
-title: 'Privacy Policy - Mooni'
+title: 'Privacy Policy'
 date: 2026-03-18
 ---
 
-This privacy policy is applicable to the Mooni app (hereinafter referred to as "Application") for mobile devices, which was developed by Butter Cookies (hereinafter referred to as "Service Provider") as a a Freemium service. This service is provided "AS IS".
+This privacy policy is applicable to the period tracker app (hereinafter referred to as "Application") for mobile devices, which was developed by Butter Cookies (hereinafter referred to as "Service Provider") as a a Freemium service. This service is provided "AS IS".
 
 ### What information does the Application obtain and how is it used?
 
