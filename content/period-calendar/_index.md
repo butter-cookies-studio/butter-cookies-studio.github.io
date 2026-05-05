@@ -1,9 +1,9 @@
 ---
-title: 'Period Tracker'
+title: 'Period Calendar'
 date: 2026-01-28
 description: ''
 cover:
-  image: 'images/period-tracker-cover.png'
+  image: 'images/period-calendar-cover.png'
   relative: false
   responsiveImages: false
 layout: 'list'
