@@ -1,15 +1,15 @@
 ---
-title: 'Period Calendar'
+title: 'Period tracker'
 date: 2026-01-28
 description: ''
 cover:
-  image: 'images/period-calendar-cover.png'
+  image: 'images/period-tracker-cover.png'
   relative: false
   responsiveImages: false
 layout: 'list'
 ---
 
-### The Simplest Way to Understand Your Body: Period Calendar
+### The Simplest Way to Understand Your Body: Period tracker
 
 From period tracking and ovulation/fertility cycles to birth control reminders and health logging—we’ve built everything you need in one place.
 
