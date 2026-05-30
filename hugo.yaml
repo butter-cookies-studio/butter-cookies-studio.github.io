@@ -1,0 +1,11 @@
+baseURL: 'https://butter-cookies-studio.github.io/'
+languageCode: 'en'
+title: 'Butter Cookies'
+theme: 'PaperMod'
+copyright: '© 2026 Butter Cookies. All rights reserved.'
+
+params:
+  env: 'production'
+caches:
+  images:
+    dir: :cacheDir/images
