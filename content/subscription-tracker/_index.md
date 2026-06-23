@@ -3,7 +3,7 @@ title: 'Subscription Tracker'
 date: 2026-05-27
 description: ''
 cover:
-  image: 'images/subscription-tracker-cover.png'
+  image: 'images/subscription-tracker.png'
   relative: false
   responsiveImages: false
 ---

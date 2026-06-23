@@ -3,7 +3,7 @@ title: 'Plant Care'
 date: 2026-05-14
 description: ''
 cover:
-  image: 'images/plant-care-cover.png'
+  image: 'images/plant-care.png'
   relative: false
   responsiveImages: false
 ---

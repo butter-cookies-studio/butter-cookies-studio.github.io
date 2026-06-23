@@ -3,7 +3,7 @@ title: 'Pill Reminder'
 date: 2026-04-12
 description: ''
 cover:
-  image: 'images/pill-reminder-cover.png'
+  image: 'images/pill-reminder.png'
   relative: false
   responsiveImages: false
 ---
