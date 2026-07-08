@@ -6,7 +6,6 @@ cover:
   image: 'images/period-tracker.png'
   relative: false
   responsiveImages: false
-layout: 'list'
 ---
 
 ### The Simplest Way to Understand Your Body: Period tracker
